@@ -5,7 +5,7 @@
 </p>
 
 # Olá, Bem vindo ao meu projeto de site do Combo+ da Alura.
-👆🏻 Acesse o site e confira: https://carledes-junior.github.io/AluraPlus/
+👆🏻 Acesse o site e confira: https://carledesjr-aluraplus.vercel.app
 ## ✔️ Tecnologias utilizadas:
 
 * HTML
